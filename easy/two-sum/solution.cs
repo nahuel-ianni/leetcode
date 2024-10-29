@@ -1,6 +1,6 @@
 /// This is my solution for the 'Two Sum' problem.
-/// Time complexity: O(N).
-/// Space complexity: O(N).
+/// Time complexity: O(n).
+/// Space complexity: O(n).
 
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
