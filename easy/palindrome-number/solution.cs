@@ -1,5 +1,5 @@
 /// This is my solution for the 'Palindrome Number' problem.
-/// Time complexity: O(log(n).
+/// Time complexity: O(log(n)).
 /// Space complexity: O(1).
 
 public class Solution {
