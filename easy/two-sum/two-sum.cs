@@ -1,3 +1,7 @@
+/// This is my solution for the 'Two Sum' problem.
+/// Time complexity: O(N).
+/// Space complexity: O(N).
+
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         var indexes = new int[2];
