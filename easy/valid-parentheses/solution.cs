@@ -1,3 +1,6 @@
+/// This is my solution for the 'Valid Parentheses' problem.
+/// Time complexity: O(n).
+/// Space complexity: O(n).
 public class Solution {
     Dictionary<char, char> symbols = new Dictionary<char, char>
     { 
