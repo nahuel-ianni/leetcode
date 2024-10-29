@@ -2,7 +2,8 @@
 /// Time complexity: O(n).
 /// Space complexity: O(n).
 
-public class Solution {
+public class Solution
+{
     Dictionary<char, char> symbols = new Dictionary<char, char>
     { 
         { ')', '(' },
@@ -10,7 +11,8 @@ public class Solution {
         { '}', '{' }
     };
 
-    public bool IsValid(string s) {
+    public bool IsValid(string s)
+    {
         // Guard against strings with uneven number of characters.
         if (s.Length % 2 != 0)
             return false;
