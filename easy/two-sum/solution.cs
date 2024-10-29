@@ -2,8 +2,10 @@
 /// Time complexity: O(n).
 /// Space complexity: O(n).
 
-public class Solution {
-    public int[] TwoSum(int[] nums, int target) {
+public class Solution
+{
+    public int[] TwoSum(int[] nums, int target)
+    {
         var indexes = new int[2];
         var dictionary = new Dictionary<int, int>();
 
