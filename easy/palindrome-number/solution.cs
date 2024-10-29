@@ -2,8 +2,10 @@
 /// Time complexity: O(log(n)).
 /// Space complexity: O(1).
 
-public class Solution {
-    public bool IsPalindrome(int number) {
+public class Solution
+{
+    public bool IsPalindrome(int number)
+    {
         if (number < 0)
             return false;
 
