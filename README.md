@@ -14,5 +14,4 @@ The table below lists the languages and corresponding file extensions used:
 Language | File extension
 --- | ---
 C# | *.cs
-JavaScript | *.js
 Python | *.py
