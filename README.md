@@ -9,7 +9,7 @@ Within each folder, solutions are named according to the problem title or ID and
 
 ### Languages
 Each problem folder includes one or more solution files, each named according to its respective programming language.  
-The table below lists the file extensions and corresponding languages used:
+The table below lists the languages and corresponding file extensions used:
 
 Language | File extension
 --- | ---
