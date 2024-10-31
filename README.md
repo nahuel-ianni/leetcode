@@ -1,5 +1,6 @@
 # LeetCode exercises
-This repository contains [my solutions](https://leetcode.com/nahuel-ianni) to the exercises found on [leetcode.com](https://leetcode.com) problems.
+Welcome to my LeetCode solutions repository!  
+Here, you'll find my solutions to a range of [LeetCode](https://leetcode.com) problems, organized for easy reference.
 
 > LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
@@ -13,5 +14,15 @@ The table below lists the languages and corresponding file extensions used:
 
 Language | File extension
 --- | ---
-C# | *.cs
-Python | *.py
+C# | `.cs`
+Python | `.py`
+
+## Getting started
+To explore a solution:
+
+1. Navigate to the relevant difficulty folder (`Easy`, `Medium`, `Hard`).
+2. Open the file with the appropriate language extension.
+
+## Progress and Updates
+This repository is regularly updated with new solutions as I continue solving LeetCode problems.  
+You can follow my progress on my [LeetCode profile](https://leetcode.com/nahuel-ianni).
