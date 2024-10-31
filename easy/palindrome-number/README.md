@@ -20,7 +20,7 @@ For example, `121` is a *palindrome* while `123` is not.
 > Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
  
 ## Constraints
-* `-231 <= x <= 231 - 1`
+* `-2^31 <= x <= 2^31 - 1`
  
 
 ## Follow up
