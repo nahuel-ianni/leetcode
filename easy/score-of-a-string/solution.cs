@@ -20,8 +20,9 @@ public class Solution
         return output;    
     }
 
-    /// Linq version:
-    /// Can be less performant due to the overhead of introducing LINQ’s iterator, lambda, and method calls.
+    // Alternative implementation using LINQ:
+    // More concise but introduces some overhead due to LINQ's iterator and lambda expression, 
+    // which may impact performance for large inputs.
     // public int ScoreOfString(string s) =>
     //     Enumerable.Range(0, s.Length - 1)
     //               .Sum(i => Math.Abs(s[i] - s[i + 1]));
