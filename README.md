@@ -16,6 +16,7 @@ Language | File extension
 --- | ---
 C# | `.cs`
 Python | `.py`
+JavaScript | `.js`
 
 ## Getting started
 To explore a solution:
