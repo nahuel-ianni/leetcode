@@ -1,11 +1,16 @@
-/// This is my solution for the 'Palindrome Number' problem.
-/// Time complexity: O(log(n)).
-/// Space complexity: O(1).
+/*
+ * Solution for the 'Palindrome Number' problem.
+ * Time complexity: O(log(n)).
+ * Space complexity: O(1).
+ */
 
 public class Solution
 {
     public bool IsPalindrome(int number)
     {
+        // Process:
+        //     1. Handle negatives immediately (return false).
+        //     2. Reverse digits and compare with the original number.
         if (number < 0)
             return false;
 
