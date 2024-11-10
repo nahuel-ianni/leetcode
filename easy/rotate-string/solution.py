@@ -1,4 +1,4 @@
-# This is my solution for the 'Rotate String' problem.
+# Solution for the 'Rotate String' problem.
 # Time complexity: O(n).
 # Space complexity: O(n).
  
