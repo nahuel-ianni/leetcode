@@ -1,4 +1,4 @@
-# This is my solution for the 'Circular Sentence' problem.
+# Solution for the 'Circular Sentence' problem.
 # Time complexity: O(n).
 # Space complexity: O(1).
 
