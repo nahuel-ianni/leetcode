@@ -1,13 +1,10 @@
-/**
- * This is my solution for the 'Length of Last Word' problem.
+/*
+ * Solution for the 'Length of Last Word' problem.
  * Time complexity: O(n).
  * Space complexity: O(1).
  * 
- * A simpler [to write] solution can be done with the following one-liner, however
- * its space complexity increases to O(n) due to Split creating a new array.
- * Trim can potentially create a new string if the original one contains whitespaces. 
- *
- * public int LengthOfLastWord(string s) => s.Trim().Split(' ').Last().Length;
+ * Alternative (space complexity: O(n)):
+ *     public int LengthOfLastWord(string s) => s.Trim().Split(' ').Last().Length;
  */
 public class Solution
 {
