@@ -1,4 +1,4 @@
-# This is my solution for the 'Two Sum' problem.
+# Solution for the 'Two Sum' problem.
 # Time complexity: O(n).
 # Space complexity: O(n).
 
