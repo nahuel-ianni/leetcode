@@ -1,6 +1,8 @@
-/// This is my solution for the 'Valid Parentheses' problem.
-/// Time complexity: O(n).
-/// Space complexity: O(n).
+/*
+ * Solution for the 'Valid Parentheses' problem.
+ * Time complexity: O(n).
+ * Space complexity: O(n).
+ */
 
 public class Solution
 {
@@ -13,7 +15,9 @@ public class Solution
 
     public bool IsValid(string s)
     {
-        // Guard against strings with uneven number of characters.
+        /// Process:
+        ///    1. Guard against strings with an uneven number of characters.
+        ///    2. Use a stack to match closing symbols with their corresponding opening symbols.
         if (s.Length % 2 != 0)
             return false;
 
@@ -22,7 +26,7 @@ public class Solution
         foreach (var character in s)
             if (symbols.ContainsKey(character))
             {
-                // When the character is a closing symbol, the stack needs to have at least one value -- the opening symbol.
+                // Check for unmatched closing symbol.
                 if (stack.Count == 0 || symbols[character] != stack.Pop())
                     return false;
             }
