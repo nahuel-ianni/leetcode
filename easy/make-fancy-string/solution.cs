@@ -1,12 +1,16 @@
-/// This is my solution for the 'Delete characters to make fancy string' problem.
-/// Time complexity: O(n).
-/// Space complexity: O(n).
+/*
+ * Solution for the 'Delete characters to make fancy string' problem.
+ * Time complexity: O(n).
+ * Space complexity: O(n).
+ */
 
 public class Solution
 {
     public string MakeFancyString(string s)
     {
-        // Guard against empty or null strings.
+        /// Process:
+        ///     1. Use StringBuilder for efficient string manipulation.
+        ///     2. Track consecutive identical characters to enforce rule of at most two.
         if (string.IsNullOrEmpty(s))
             return s;
 
