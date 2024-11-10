@@ -1,4 +1,4 @@
-# This is my solution for the 'Palindrome Number' problem.
+# Solution for the 'Palindrome Number' problem.
 # While reversing the original number is a straightforward solution, it can be less 
 # performant than reversing half for large digit numbers.
 #
