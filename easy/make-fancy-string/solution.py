@@ -1,4 +1,4 @@
-# This is my solution for the 'Delete characters to make fancy string' problem.
+# Solution for the 'Delete characters to make fancy string' problem.
 # Time complexity: O(n).
 # Space complexity: O(n).
 
