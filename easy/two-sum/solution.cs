@@ -1,11 +1,16 @@
-/// This is my solution for the 'Two Sum' problem.
-/// Time complexity: O(n).
-/// Space complexity: O(n).
+/*
+ * Solution for the 'Two Sum' problem.
+ * Time complexity: O(n).
+ * Space complexity: O(n).
+ */
 
 public class Solution
 {
     public int[] TwoSum(int[] nums, int target)
     {
+        /// Process:
+        ///    1. Use dictionary to store each number's index.
+        ///    2. Check if complement (target - nums[x]) is already in dictionary.
         var indexes = new int[2];
         var dictionary = new Dictionary<int, int>();
 
