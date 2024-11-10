@@ -1,4 +1,4 @@
-# This is my solution for the 'Valid Parentheses' problem.
+# Solution for the 'Valid Parentheses' problem.
 # Time complexity: O(n).
 # Space complexity: O(n).
 
