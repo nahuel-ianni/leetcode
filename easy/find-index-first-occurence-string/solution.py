@@ -4,11 +4,7 @@
 
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
-        # Handle edge case when needle is empty
-        if not needle:
-            return 0
-        
-        n, m = len(haystack), len(needle)
+       n, m = len(haystack), len(needle)
         
         # Iterate through haystack up to the point where needle can fit
         for i in range(n - m + 1):
