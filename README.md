@@ -27,3 +27,7 @@ To explore a solution:
 ## Progress and Updates
 This repository is regularly updated with new solutions as I continue solving LeetCode problems.  
 You can follow my progress on my [LeetCode profile](https://leetcode.com/nahuel-ianni).
+
+## License
+This project is licensed under the MIT License.  
+Happy Coding! ✨
