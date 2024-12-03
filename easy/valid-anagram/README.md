@@ -11,7 +11,7 @@ Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `f
 > **Output:** false
 
 ## Constraints
-* `1 <= s.length, t.length <= 5 * 104`
+* <code>1 <= s.length, t.length <= 5 * 10<sup>4</sup></code>
 * `s` and `t` consist of lowercase English letters.
 
 

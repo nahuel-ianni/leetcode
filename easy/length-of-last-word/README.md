@@ -20,6 +20,6 @@ A word is a maximal substring consisting of non-space characters only.
 > **Explanation:** The last word is "joyboy" with length 6.
 
 ## Constraints
-* `1 <= s.length <= 10^4`
+* <code>1 <= s.length <= 10<sup>4</sup></code>
 * `s` consists of only English letters and spaces `' '`.
 * There will be at least one word in `s`.

@@ -23,6 +23,6 @@ All occurrences of a character must be replaced with another character while pre
 > **Output:** true
 
 ## Constraints
-* `1 <= s.length <= 5 * 10^4`
+* <code>1 <= s.length <= 5 * 10<sup>4</sup></code>
 * `t.length == s.length`
 * `s` and `t` consist of any valid ascii character.

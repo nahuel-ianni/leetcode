@@ -20,5 +20,5 @@ Given a string `s`, return `true` if it is a palindrome, or `false` otherwise.
 > Since an empty string reads the same forward and backward, it is a palindrome.
 
 ## Constraints
-* `1 <= s.length <= 2 * 10^5`
+* <code>1 <= s.length <= 2 * 10<sup>5</sup></code>
 * `s` consists only of printable ASCII characters.

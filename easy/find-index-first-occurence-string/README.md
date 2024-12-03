@@ -14,5 +14,5 @@ Given two strings `needle` and `haystack`, return the index of the first occurre
 > **Explanation:** "leeto" did not occur in "leetcode", so we return -1.  
 
 ## Constraints
-* `1 <= haystack.length, needle.length <= 10^4`
+* <code>1 <= haystack.length, needle.length <= 10<sup>4</sup></code>
 * `haystack` and `needle` consist of only lowercase English characters.
