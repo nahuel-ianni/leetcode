@@ -20,5 +20,5 @@ Given a string `s`, find the length of the longest substring without repeating c
 > Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
 ## Constraints
-* `0 <= s.length <= 5 * 10^4`
+* <code>0 <= s.length <= 5 * 10<sup>4</sup></code>
 * `s` consists of English letters, digits, symbols and spaces.
