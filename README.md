@@ -30,5 +30,5 @@ This repository is regularly updated with new solutions as I continue solving Le
 You can follow my progress on my [LeetCode profile](https://leetcode.com/nahuel-ianni).
 
 ## License
-This project is licensed under the MIT License.  
+This project is [MIT licensed](./LICENSE).  
 Happy Coding! ✨
