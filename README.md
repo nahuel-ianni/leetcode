@@ -1,4 +1,4 @@
-# LeetCode exercises
+# LeetCode &middot; Exercises
 Welcome to my LeetCode solutions repository!  
 Here, you'll find my solutions to a range of [LeetCode](https://leetcode.com) problems, organized for easy reference.
 
