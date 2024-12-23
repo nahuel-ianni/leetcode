@@ -1,4 +1,4 @@
-# LeetCode &middot; Exercises
+# LeetCode &middot; Solutions
 Welcome to my LeetCode solutions repository!  
 Here, you'll find my solutions to a range of [LeetCode](https://leetcode.com) problems, organized for easy reference.
 
@@ -9,7 +9,7 @@ This repository organizes LeetCode solutions into folders based on problem diffi
 Within each folder, solutions are named according to the problem title or ID and include files in multiple programming languages where applicable.
 
 ### Languages
-Each problem folder includes one or more solution files, each named according to its respective programming language.  
+Each problem folder includes one or more solution files.  
 The table below lists the languages and corresponding file extensions used:
 
 Language | File extension
@@ -22,7 +22,8 @@ JavaScript | `.js`
 To explore a solution:
 
 1. Navigate to the relevant difficulty folder (`Easy`, `Medium`, `Hard`).
-2. Open the file with the appropriate language extension.
+2. Find the desired problem folder.
+3. Open the file with the appropriate language extension.
 
 ## Progress and Updates
 This repository is regularly updated with new solutions as I continue solving LeetCode problems.  
