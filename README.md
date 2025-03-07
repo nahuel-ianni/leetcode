@@ -15,8 +15,9 @@ The table below lists the languages and corresponding file extensions used:
 Language | File extension
 --- | ---
 C# | `.cs`
-Python | `.py`
 JavaScript | `.js`
+Python | `.py`
+SQL | `.sql`
 
 ## Getting started
 To explore a solution:
