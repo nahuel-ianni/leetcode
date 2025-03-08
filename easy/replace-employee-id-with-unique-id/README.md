@@ -42,6 +42,7 @@ The result format is in the following example.
 > | 90 | Winston  |
 > | 3  | Jonathan |
 > +----+----------+
+> 
 > EmployeeUNI table:
 > +----+-----------+
 > | id | unique_id |
@@ -50,6 +51,7 @@ The result format is in the following example.
 > | 11 | 2         |
 > | 90 | 3         |
 > +----+-----------+
+> 
 > Output: 
 > +-----------+----------+
 > | unique_id | name     |
@@ -60,7 +62,8 @@ The result format is in the following example.
 > | 3         | Winston  |
 > | 1         | Jonathan |
 > +-----------+----------+
-> Explanation: 
+> 
+>Explanation: 
 > Alice and Bob do not have a unique ID, We will show null instead.
 > The unique ID of Meir is 2.
 > The unique ID of Winston is 3.
