@@ -1,5 +1,5 @@
 # Solution for the 'Modify Columns' problem.
-# Time complexity: O(n) for doubling all rows with updated value.
+# Time complexity: O(n).
 # Space complexity: O(1) for in-place updates, O(n) for immutable solution.
 
 import pandas as pd
